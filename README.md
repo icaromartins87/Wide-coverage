@@ -68,4 +68,11 @@ A página apresenta uma interface limpa e intuitiva com:
 
 Feito por **Ícaro Martins** 🚀
 
-💼 LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/icaro-martins87)
+<p align="left">
+  <a href="https://linkedin.com/in/icaro-martins87" text-decoration: none>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25"/>
+  </a>
+  <a href="mailto:seu_icaro.ramon@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="25"/>
+  </a>
+</p>
