@@ -53,7 +53,7 @@ A página apresenta uma interface limpa e intuitiva com:
 ```bash
 📦 develop-branch
  ┣ 📂 assets
- ┃ ┣ 📜 mockup.png
+ ┃ ┣ 📜 resposividade.png
  ┃ ┣ 📜 desktop.png
  ┃ ┣ 📜 mobile.png
  ┃ ┗ 📜 Positive.png
